@@ -1,0 +1,1 @@
+This error typically occurs when the Expo CLI is having trouble communicating with the Expo servers.  This might be due to network issues, problems with the Expo servers themselves, or issues with your local environment (like an incorrect proxy configuration or a firewall blocking connections).  The error message itself is often non-specific, making diagnosis challenging.
